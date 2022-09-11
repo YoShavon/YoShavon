@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoShavon
-- 👀 I’m interested in Deaign, Software Engineering, Cybersecurity and Cloud Computing.
+- 👀 I’m interested in Design, Software Engineering, Cybersecurity and Cloud Computing.
 - 🌱 I’m currently learning Linux and software engineering!
 
 <!---
